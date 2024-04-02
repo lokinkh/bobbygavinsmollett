@@ -1,0 +1,33 @@
+{
+  "name": "bobbygavinsmollett",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "bobbygavinsmollett.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lokinkh/bobbygavinsmollett"
+  },
+  "website": "https://github.com/lokinkh/bobbygavinsmollett.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "lokinkh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokinkh/bobbygavinsmollett/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/lokinkh/bobbygavinsmollett#readme",
+  "dependencies": {
+    "churchdominic": "1.0.2"
+  }
+}
